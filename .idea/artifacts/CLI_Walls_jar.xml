@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CLI-Walls:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CLI_Walls_jar</output-path>
+    <root id="archive" name="CLI-Walls.jar">
+      <element id="module-output" name="CLI-Walls" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../json-simple-1.1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
