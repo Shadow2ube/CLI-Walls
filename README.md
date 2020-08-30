@@ -1,6 +1,6 @@
 # Walls
 
-![](Logo.png)
+![An image](Logo.png) <!-- .element height="50%" width="50%" -->
 
 Walls is a java commandline game.
 
